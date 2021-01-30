@@ -102,27 +102,27 @@
   <article>
     <p>GME shorts have not begun to close their positions in substantial numbers.</p>
     <h3>the situation (1/29 10 AM ET):</h3>
-    <p>
-    </p><ul>
-      <li><b>short interest:</b> <span id="short_interest">75.54% of float by Ortex, 113.31% of float by S3 Shortsight</span></li>
-      <li><b>short share public availability:</b> <span id="short_availability">0</span></li>
-      <li>Shorts are exiting their positions, but an amount of shares equal or almost equal to float is still shorted.
-      </li>
-      <li>robinhood and other brokerages didn't have the cash to place buy orders on Thursday. If you're
-        still on robinhood, you should find a new broker ASAP. Retail brokers who didn't blow up completely Thursday
-        include:
-        <ul>
-          <li>vanguard</li>
-          <li>td ameritrade (though they did implement restrictions)</li>
-          <li>fidelity (though they did have some technical issues)</li>
-        </ul>
-      </li>
-      <li>
-        how often is this site updated? As often as the data is updated. Typically this is daily, before market open.
-      </li>
-    </ul>
-    <p></p>
-    <button id="subscribe">click here to be sent a heads up when the squeeze is probably starting to get squoze</button>
+      <ul>
+        <li><b>short interest:</b> <span id="short_interest">75.54% of float by Ortex, 113.31% of float by S3 Shortsight</span></li>
+        <li><b>short share public availability:</b> <span id="short_availability">0</span></li>
+        <li>Shorts are exiting their positions, but an amount of shares equal or almost equal to float is still shorted.
+        </li>
+        <li>robinhood and other brokerages didn't have the cash to place buy orders on Thursday. If you're
+          still on robinhood, you should find a new broker ASAP. Retail brokers who didn't blow up completely Thursday
+          include:
+          <ul>
+            <li>vanguard</li>
+            <li>td ameritrade (though they did implement restrictions)</li>
+            <li>fidelity (though they did have some technical issues)</li>
+          </ul>
+        </li>
+        <li>
+          how often is this site updated? As often as the data is updated. Typically this is daily, before market open.
+        </li>
+      </ul>
+      <p>
+        <button id="subscribe">click here to be sent a heads up when the squeeze is probably starting to get squoze</button>
+      </p>
   </article>
   <article id="mc_embed_signup" class="hidden">
     <form action="https://bonner.us7.list-manage.com/subscribe/post?u=ed1bdca530f1a8ad3a0f57d09&amp;id=7bfcf862c8" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
