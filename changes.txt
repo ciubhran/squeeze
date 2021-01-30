@@ -74,8 +74,9 @@
       }
     }
 
-    .var {
-      background-color: lightgray;
+    button {
+      -webkit-appearance: none;
+      height: 100%;
     }
 
     .hidden {
@@ -105,16 +106,19 @@
     </p><ul>
       <li><b>short interest:</b> <span id="short_interest">75.54% of float by Ortex, 113.31% of float by S3 Shortsight</span></li>
       <li><b>short share public availability:</b> <span id="short_availability">0</span></li>
-      <li>Shorts are exiting their positions, but an amount of shares equal or almost equal to float is still shorted.</li>
-      <li>robinhood and other brokerages didn't have the capital to place buy orders at times yesterday. Robinhood is
-        apparently going so far as to liquidate GME shares in accounts that are not using margin trading(!) If you're
-        still on robinhood, you should find a new broker ASAP. Retail brokers who didn't blow up completely yesterday
+      <li>Shorts are exiting their positions, but an amount of shares equal or almost equal to float is still shorted.
+      </li>
+      <li>robinhood and other brokerages didn't have the cash to place buy orders on Thursday. If you're
+        still on robinhood, you should find a new broker ASAP. Retail brokers who didn't blow up completely Thursday
         include:
         <ul>
           <li>vanguard</li>
-          <li>td ameritrade</li>
-          <li>fidelity</li>
+          <li>td ameritrade (though they did implement restrictions)</li>
+          <li>fidelity (though they did have some technical issues)</li>
         </ul>
+      </li>
+      <li>
+        how often is this site updated? As often as the data is updated. Typically this is daily, before market open.
       </li>
     </ul>
     <p></p>
@@ -263,16 +267,18 @@
       if you don't know this you shouldn't be gambling, but
     </p><ul>
       <li>
+        don't buy fractional shares, you cack-handed poltroon. Buy whole shares. If you can't afford it, don't invest. A
+        fractional share isn't a share, it's just a promise from your broker to hold something for you. Want to sell
+        your fractional share? OK, great your broker will work on bundling your order together with other fractional
+        suckers until they eventually place it. I'm sure that will work out great for you in an unprecedented
+        short-squeeze selloff.
+      </li>
+      <li>
         robinhood didn't halt trading just because they hate you, they did it because they ran out of cash. A broker
         like them needs to hold reserves until the trade is processed by the clearinghouse, which can be a while. And
         the reserves they need to hold just went completely bananas. Robinhood and others were unprepared for it. We'll
-        see if they can summon the cash reserves for the coming days, but boy, what a terrible way to communicate that
-        you're trying to avoid going broke to your users.
-      </li>
-      <li>
-        ok, this one's new to me: robinhood is apparently selling shares belonging to accounts that are not trading on
-        margin. Margin calls are normal. Selling shares that your clients own outright is crazytown what-in-the-world
-        shenanigans.
+        see if they can summon the cash reserves for the coming days, but boy, what a terrible way to communicate to
+        your users that you're just trying to avoid going broke.
       </li>
       <li>
         your broker is lending your shares out to people who want them, like the hedge funds you're betting against.
@@ -284,6 +290,11 @@
         stop-loss sell at 100, and some other gambler set a stop-loss sell at 115, then a hedge fund wanting to drive
         the price down can start to chain-trigger stop-loss sells until the prices reaches a level low enough to allow
         them to escape the short squeeze.
+      </li>
+      <li>
+        "OK, but is this an op? Are you going to try to trigger a premature selloff?" No. Get off /pol/, not
+        everything's an op. I've been on /r/wsb for ages, recently posting about trying to profit off the slow-motion
+        trash fire that was NKLA.
       </li>
     </ul>
     <p></p>
