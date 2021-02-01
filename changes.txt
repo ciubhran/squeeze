@@ -100,29 +100,54 @@
     <h1>the squeeze has <u>not</u> been squoze.</h1>
   </main>
   <article>
-    <p>GME shorts have not begun to close their positions in substantial numbers.</p>
-    <h3>the situation (1/29 10 AM ET):</h3>
-      <ul>
-        <li><b>short interest:</b> <span id="short_interest">75.54% of float by Ortex, 113.31% of float by S3 Shortsight</span></li>
-        <li><b>short share public availability:</b> <span id="short_availability">0</span></li>
-        <li>Shorts are exiting their positions, but an amount of shares equal or almost equal to float is still shorted.
-        </li>
-        <li>robinhood and other brokerages didn't have the cash to place buy orders on Thursday. If you're
-          still on robinhood, you should find a new broker ASAP. Retail brokers who didn't blow up completely Thursday
-          include:
-          <ul>
-            <li>vanguard</li>
-            <li>td ameritrade (though they did implement restrictions)</li>
-            <li>fidelity (though they did have some technical issues)</li>
-          </ul>
-        </li>
-        <li>
-          how often is this site updated? As often as the data is updated. Typically this is daily, before market open.
-        </li>
-      </ul>
-      <p>
-        <button id="subscribe">click here to be sent a heads up when the squeeze is probably starting to get squoze</button>
-      </p>
+    <h3>Public Service Announcement</h3>
+    <p><i>
+        This is not a game. The people who originated this meme like to have fun with stupid stock bets, we like to
+        pretend we're monkeys throwing darts, but though we enjoy talking like idiots, we actually do know the
+        difference between delta and theta. We understand what role a clearinghouse performs. We were playing GME weeks
+        ago, at $10-$50, as it became clear that DFV was actually right. We put in money we could afford to lose,
+        because we knew we were speculating on a potential short squeeze.
+      </i></p>
+    <p><i>
+        If these statements don't describe you - if you don't know options greeks, if you don't understand how the
+        market works, and especially if you are gambling with money that would cause you problems if you didn't have it
+        anymore - then pull your head out of your ass, return to the real world with your real obligations and expenses,
+        and don't increase your exposure any more. There's an emotional high in gambling, especially when you're doing
+        it with lots of other euphoric people. Don't let it screw up your life.
+      </i></p>
+    <p><i>
+        This is not an epic crusade to get retribution on the financial sector for its reckless greed and the damage
+        it's done to people's lives. It's just a stock play, undertaken to make money off of some hedge funds who got
+        caught in an overexposed position. The financial industry as a whole does not care. This is just a blip on its
+        radar.
+      </i></p>
+    <p>Anyway, here's the update:</p>
+    <p>GME shorts appear to have begun to close their positions in substantial numbers.</p>
+    <h3>the situation (1/31 8 PM ET):</h3>
+    <ul>
+      <li><b>short interest:</b>
+        <p id="short_interest">30m (58% of float) by S3 Shortsight preliminary weekend data (1/31), 113.31m (113.31% of float) by S3 Shortsight (1/29), 38.6m (65.64% of float) by Ortex (1/28)</p>
+      </li>
+      <li><b>short share public availability:</b>
+        <p id="short_availability">0 (Interactive Brokers)</p>
+      </li>
+      <li><b>short share public public borrow rate:</b>
+        <p id="borrow_rate">18.88 (Interactive Brokers)</p>
+      </li>
+      <li>
+        Shorts appear to be exiting their positions. There's a lot of speculation about how this is happening, or
+        whether it is truly happening at all - there are tactics that can be used to "counterfeit" stock or manipulate
+        disclosed short short interest - but the short interest numbers we've been following all along are definitely
+        trending down.
+      </li>
+      <li>
+        how often is this site updated? As often as the data is updated. Typically this is daily, before market open.
+      </li>
+    </ul>
+    <p>
+      <button id="subscribe">click here to be sent a heads up when the squeeze is probably starting to get
+        squoze</button>
+    </p>
   </article>
   <article id="mc_embed_signup" class="hidden">
     <form action="https://bonner.us7.list-manage.com/subscribe/post?u=ed1bdca530f1a8ad3a0f57d09&amp;id=7bfcf862c8" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
@@ -262,44 +287,6 @@
     <p></p>
   </article>
   <article>
-    <h3>points of interest:</h3>
-    <p>
-      if you don't know this you shouldn't be gambling, but
-    </p><ul>
-      <li>
-        don't buy fractional shares, you cack-handed poltroon. Buy whole shares. If you can't afford it, don't invest. A
-        fractional share isn't a share, it's just a promise from your broker to hold something for you. Want to sell
-        your fractional share? OK, great your broker will work on bundling your order together with other fractional
-        suckers until they eventually place it. I'm sure that will work out great for you in an unprecedented
-        short-squeeze selloff.
-      </li>
-      <li>
-        robinhood didn't halt trading just because they hate you, they did it because they ran out of cash. A broker
-        like them needs to hold reserves until the trade is processed by the clearinghouse, which can be a while. And
-        the reserves they need to hold just went completely bananas. Robinhood and others were unprepared for it. We'll
-        see if they can summon the cash reserves for the coming days, but boy, what a terrible way to communicate to
-        your users that you're just trying to avoid going broke.
-      </li>
-      <li>
-        your broker is lending your shares out to people who want them, like the hedge funds you're betting against.
-        depending who your broker is you can call them and tell them to stop, turn off margin trading, set limit sells
-        at stratospherically high prices, or go get a real broker.
-      </li>
-      <li>
-        your broker is selling your information, like your sell price, to anybody who can pay for it. if you set a
-        stop-loss sell at 100, and some other gambler set a stop-loss sell at 115, then a hedge fund wanting to drive
-        the price down can start to chain-trigger stop-loss sells until the prices reaches a level low enough to allow
-        them to escape the short squeeze.
-      </li>
-      <li>
-        "OK, but is this an op? Are you going to try to trigger a premature selloff?" No. Get off /pol/, not
-        everything's an op. I've been on /r/wsb for ages, recently posting about trying to profit off the slow-motion
-        trash fire that was NKLA.
-      </li>
-    </ul>
-    <p></p>
-  </article>
-  <article>
     <p><a target="_blank" href="https://bonner.jp">
         by jp
       </a></p>
@@ -318,22 +305,31 @@
 <script>
   const MONTHS = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
   const SHORT_DATA = [{
-    source: 'Ortex',
-    estimate: 75.54,
+    source: 'S3 Shortsight preliminary weekend data (1/31)',
+    estimate: 30.0,
+    percent: 58
   },
   {
-    source: 'S3 Shortsight',
+    source: 'S3 Shortsight (1/29)',
     estimate: 113.31,
+    percent: 113.31
+  },
+  {
+    source: 'Ortex (1/28)',
+    estimate: 38.6,
+    percent: 65.64,
   }];
-  const SHORT_AVAILABILITY = '0'
+  const SHORT_AVAILABILITY = '0 (Interactive Brokers)'
+  const BORROW_RATE = '18.88 (Interactive Brokers)'
   const date = new Date();
 
   const timestampString = `${MONTHS[date.getMonth()]} ${date.getDate()}`;
-  const shortPercents = SHORT_DATA.map((s) => `${s.estimate}% of float by ${s.source}`).join(', ');
+  const shortPercents = SHORT_DATA.map((s) => `${s.estimate}m (${s.percent}% of float) by ${s.source}`).join(', ');
 
   document.querySelector("#date").textContent = timestampString;
   document.querySelector("#short_interest").textContent = shortPercents;
   document.querySelector("#short_availability").textContent = SHORT_AVAILABILITY;
+  document.querySelector("#borrow_rate").textContent = BORROW_RATE;
 
   document.getElementById('subscribe').addEventListener('click', (_) => {
     document.getElementById('mc_embed_signup').classList.remove('hidden')
