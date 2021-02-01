@@ -126,7 +126,7 @@
     <h3>the situation (1/31 8 PM ET):</h3>
     <ul>
       <li><b>short interest:</b>
-        <p id="short_interest">30m (58% of float) by S3 Shortsight preliminary weekend data (1/31), 113.31m (113.31% of float) by S3 Shortsight (1/29), 38.6m (65.64% of float) by Ortex (1/28)</p>
+        <p id="short_interest">30m (58% of float) by S3 Shortsight preliminary weekend data (1/31), 57.83m (113.31% of float) by S3 Shortsight (1/29), 38.6m (65.64% of float) by Ortex (1/28)</p>
       </li>
       <li><b>short share public availability:</b>
         <p id="short_availability">0 (Interactive Brokers)</p>
@@ -311,7 +311,7 @@
   },
   {
     source: 'S3 Shortsight (1/29)',
-    estimate: 113.31,
+    estimate: 57.83,
     percent: 113.31
   },
   {
