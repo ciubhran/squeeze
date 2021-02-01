@@ -121,8 +121,7 @@
         caught in an overexposed position. The financial industry as a whole does not care. This is just a blip on its
         radar.
       </i></p>
-    <p>Anyway, here's the update:</p>
-    <p>GME shorts appear to have begun to close their positions in substantial numbers.</p>
+    <p><i>Anyway, here's the update.</i></p>
     <h3>the situation (1/31 8 PM ET):</h3>
     <ul>
       <li><b>short interest:</b>
@@ -131,7 +130,7 @@
       <li><b>short share public availability:</b>
         <p id="short_availability">0 (Interactive Brokers)</p>
       </li>
-      <li><b>short share public public borrow rate:</b>
+      <li><b>short share public borrow rate:</b>
         <p id="borrow_rate">18.88 (Interactive Brokers)</p>
       </li>
       <li>
