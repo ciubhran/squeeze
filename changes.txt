@@ -125,7 +125,7 @@
     <h3>the situation (1/31 8 PM ET):</h3>
     <ul>
       <li><b>short interest:</b>
-        <p id="short_interest">27.13m (53% of float) by S3 Shortsight (2/1), 38.6m (65.64% of float) by Ortex (1/28)</p>
+        <p id="short_interest">27.13m (53.15% of float) by S3 Shortsight (1/29), 29.4m (58.21% of float) by Ortex (1/29)</p>
       </li>
       <li><b>short share public availability:</b>
         <p id="short_availability">0 (Interactive Brokers)</p>
@@ -304,14 +304,14 @@
 <script>
   const MONTHS = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
   const SHORT_DATA = [{
-    source: 'S3 Shortsight (2/1)',
+    source: 'S3 Shortsight (1/29)',
     estimate: 27.13,
-    percent: 53
+    percent: 53.15
   },
   {
-    source: 'Ortex (1/28)',
-    estimate: 38.6,
-    percent: 65.64,
+    source: 'Ortex (1/29)',
+    estimate: 29.4,
+    percent: 58.21,
   }];
   const SHORT_AVAILABILITY = '0 (Interactive Brokers)'
   const BORROW_RATE = '18.88 (Interactive Brokers)'
