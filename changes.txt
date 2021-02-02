@@ -25,7 +25,7 @@
     <meta property="twitter:title" content="is the squeeze squoze yet?">
     <meta property="twitter:description" content="no.">
     <meta property="twitter:image" content="/images/no-e1223c65d7f32efb9c062743d0ee46ef.png?vsn=d" <!--="" apple="" --="">
-    <link rel="apple-touch-icon" href="/images/no-e1223c65d7f32efb9c062743d0ee46ef.png?vsn=d" <meta="" charset="UTF-8" content="ERV1WwgRQw0kEgAwU34fAxo8MVsOBjoPspE81A3Usznt01fNweY5KQlG" csrf-param="_csrf_token" method-param="_method" name="csrf-token">
+    <link rel="apple-touch-icon" href="/images/no-e1223c65d7f32efb9c062743d0ee46ef.png?vsn=d" <meta="" charset="UTF-8" content="NTdwQUp3MSgVBgg0GHx-EBkKQycpXXIKzd4l-NtDGVjCVEMEch1Dqm1Z" csrf-param="_csrf_token" method-param="_method" name="csrf-token">
     <link phx-track-static="" rel="stylesheet" href="/css/app-9c2b391abfa958dd8677b82058ec8bde.css?vsn=d">
     <script defer="" phx-track-static="" type="text/javascript" src="/js/app-1ba682cf699a4161f6097645e8f98dc6.js?vsn=d"></script>
 
@@ -38,7 +38,7 @@
     </script>
   </head>
   <body>
-<div data-phx-main="true" data-phx-session="SFMyNTY.g2gDaAJhBHQAAAAHZAACaWRtAAAAFHBoeC1GbF9lbUw4eUlUS3lQTnFCZAAKcGFyZW50X3BpZGQAA25pbGQACHJvb3RfcGlkZAADbmlsZAAJcm9vdF92aWV3ZAAdRWxpeGlyLlNob3J0U3R1ZmZXZWIuUGFnZUxpdmVkAAZyb3V0ZXJkABtFbGl4aXIuU2hvcnRTdHVmZldlYi5Sb3V0ZXJkAAdzZXNzaW9udAAAAABkAAR2aWV3ZAAdRWxpeGlyLlNob3J0U3R1ZmZXZWIuUGFnZUxpdmVuBgCwQbRhdwFiAAFRgA.BzsBBdziK9DN8oowrrg1PvYArmISeAPKTcT_Q5WzdAA" data-phx-static="SFMyNTY.g2gDaAJhBHQAAAADZAAKYXNzaWduX25ld2pkAAVmbGFzaHQAAAAAZAACaWRtAAAAFHBoeC1GbF9lbUw4eUlUS3lQTnFCbgYAsUG0YXcBYgABUYA.8rEfE0IR3APoOAx2YzR6aYwLdoICmBVuJayBURe-8Mc" data-phx-view="PageLive" id="phx-Fl_emL8yITKyPNqB"><p class="alert alert-info" role="alert" phx-click="lv:clear-flash" phx-value-key="info"></p>
+<div data-phx-main="true" data-phx-session="SFMyNTY.g2gDaAJhBHQAAAAHZAACaWRtAAAAFHBoeC1GbF9mSkgyZWJ1c0NnZ19CZAAKcGFyZW50X3BpZGQAA25pbGQACHJvb3RfcGlkZAADbmlsZAAJcm9vdF92aWV3ZAAdRWxpeGlyLlNob3J0U3R1ZmZXZWIuUGFnZUxpdmVkAAZyb3V0ZXJkABtFbGl4aXIuU2hvcnRTdHVmZldlYi5Sb3V0ZXJkAAdzZXNzaW9udAAAAABkAAR2aWV3ZAAdRWxpeGlyLlNob3J0U3R1ZmZXZWIuUGFnZUxpdmVuBgA0ar1hdwFiAAFRgA.YE3bCYQ1YKSmtTFBNczqAT2qJ1d01DPzbVZq4nDBKz4" data-phx-static="SFMyNTY.g2gDaAJhBHQAAAADZAAKYXNzaWduX25ld2pkAAVmbGFzaHQAAAAAZAACaWRtAAAAFHBoeC1GbF9mSkgyZWJ1c0NnZ19CbgYANGq9YXcBYgABUYA.5qP7XjSy5ZdRfPP5otMkcWl17qV0yJVVMltqD-t52qE" data-phx-view="PageLive" id="phx-Fl_fJH2ebusCgg_B"><p class="alert alert-info" role="alert" phx-click="lv:clear-flash" phx-value-key="info"></p>
 
 <p class="alert alert-danger" role="alert" phx-click="lv:clear-flash" phx-value-key="error"></p>
 
@@ -46,7 +46,7 @@
 
 <nav>
   <span><a href="https://www.youtube.com/playlist?list=PLqcnUvXhHGbNPxxgZnDybjGopn2JFbDhX" target="_blank">hold, me bully boys, hold</a></span>
-  <span class="live">LIVE: 54</span>
+  <span class="live">LIVE: 52</span>
 </nav>
 
   <main>
@@ -56,7 +56,7 @@
     </h1>
   </main>
   <section>
-    <h3>the situation (02:36 02/02):</h3>
+    <h3>the situation (02:53 02/02):</h3>
     <p>
       </p><ul>
         <li><b>short interest: </b>
@@ -70,7 +70,7 @@
         <li><b>borrow availability (Interactive Brokers): </b>
           <span class="live"> 0 </span>
         </li>
-        <li>Shorts appear to be exiting their positions. There's a lot of speculation about how this is happening, or whether it is truly happening at all - there are tactics that can be used to manipulate disclosed short interest, or transact outside of the NYSE volume - but regardless, the short interest numbers we've been following all along are definitely trending down. </li>
+        <li>Shorts appear to be exiting their positions. There's a lot of speculation about the extent, but the short interest numbers we've been following all along are definitely trending down. Will a short squeeze definitely happen? Not definitely. It was never a sure thing and it still isn't.</li>
       </ul>
     <p></p>
   </section>
