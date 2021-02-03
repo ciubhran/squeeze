@@ -103,18 +103,16 @@
     <h3>the situation (2/2 11 AM ET):</h3>
     <ul>
       <li><b>short interest:</b>
-        <p id="short_interest">26.09m (51.13% of float) by S3 Shortsight (2/1), 27.04m (52.88% of float) by Ortex (2/1)</p>
+        <p id="short_interest">26.39m (51.72% of float) by S3 Shortsight (2/3), 27.14m (53.18% of float) by Ortex (2/1)</p>
       </li>
       <li><b>short share public availability:</b>
         <p id="short_availability">0 (Interactive Brokers)</p>
       </li>
       <li><b>short share public borrow rate:</b>
-        <p id="borrow_rate">16.97% (Interactive Brokers)</p>
+        <p id="borrow_rate">19.67% (Ortex)</p>
       </li>
       <li>
-        Shorts appear to be exiting their positions. There's a lot of speculation about how this is happening, or
-        whether it is truly happening at all - there are tactics that can be used manipulate disclosed short short
-        interest - but the short interest numbers we've been following all along are definitely trending down.
+        Shorts have stopped exiting their positions and are maintaining a level of short interest of about 50% of float.
       </li>
       <li>
         how often is this site updated? As often as the data is updated. Typically this is daily, before market open.
@@ -309,17 +307,17 @@
 <script>
   const MONTHS = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
   const SHORT_DATA = [{
-    source: 'S3 Shortsight (2/1)',
-    estimate: 26.09,
-    percent: 51.13
+    source: 'S3 Shortsight (2/3)',
+    estimate: 26.39,
+    percent: 51.72
   },
   {
     source: 'Ortex (2/1)',
-    estimate: 27.04,
-    percent: 52.88,
+    estimate: 27.14,
+    percent: 53.18,
   }];
   const SHORT_AVAILABILITY = '0 (Interactive Brokers)'
-  const BORROW_RATE = '16.97% (Interactive Brokers)'
+  const BORROW_RATE = '19.67% (Ortex)'
   const date = new Date();
 
   const timestampString = `${MONTHS[date.getMonth()]} ${date.getDate()}`;
