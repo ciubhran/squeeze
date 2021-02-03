@@ -118,9 +118,16 @@
         how often is this site updated? As often as the data is updated. Typically this is daily, before market open.
       </li>
       <li>
-        is the squeeze ever going to be squoze? possibly. short interest is still high, but it'll take some sort of catalyst:
-        without one, at this point it's more likely short repurchasing continues as a gradual upward pressure, rather than a
+        is the squeeze ever going to be squoze? possibly. short interest is still high, but it'll take some sort of
+        catalyst:
+        without one, at this point it's more likely short repurchasing continues as a gradual upward pressure, rather
+        than a
         sudden mass event that causes the price to explode.
+      </li>
+      <li>
+        one feature worth looking at is the unusual level of failures to deliver GME stock, compiled from SEC data at
+        (<a href="https://wherearetheshares.com/" target="_blank">wherearetheshares.com</a>). Michael Burry reported a delay of weeks recalling his shares that had been
+        lent out to shorts. It's definitely odd.
       </li>
     </ul>
     <p>
