@@ -100,19 +100,19 @@
     <h1>the squeeze has <u>not</u> been squoze.</h1>
   </main>
   <article>
-    <h3>the situation (2/3 9:30 AM ET):</h3>
+    <h3>the situation (2/4 9:30 AM ET):</h3>
     <ul>
       <li><b>short interest:</b>
-        <p id="short_interest">26.39m (51.72% of float) by S3 Shortsight (2/2), 27.14m (53.18% of float) by Ortex (2/2)</p>
+        <p id="short_interest">26.39m (51.72% of float) by S3 Shortsight (2/3 - unchanged from previous day data), 26.66m (51.54% of float) by Ortex (2/3)</p>
       </li>
       <li><b>short share public availability:</b>
-        <p id="short_availability">0 (Interactive Brokers)</p>
+        <p id="short_availability">1.06m (Interactive Brokers)</p>
       </li>
       <li><b>short share public borrow rate:</b>
-        <p id="borrow_rate">19.67% (Ortex)</p>
+        <p id="borrow_rate">18.28% (Ortex), 10.1% (Interactive Brokers)</p>
       </li>
       <li>
-        Shorts have stopped exiting their positions and are maintaining a level of short interest of about 50% of float.
+        Shorts have stopped exiting their positions and are maintaining a level of short interest of about 50% of float. For the first time in a while, new shares are available to borrow for retail traders to short. S3 is reporting yesterday's numbers as today's numbers, unchanged.
       </li>
       <li>
         how often is this site updated? As often as the data is updated. Typically this is daily, before market open.
@@ -314,17 +314,17 @@
 <script>
   const MONTHS = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
   const SHORT_DATA = [{
-    source: 'S3 Shortsight (2/2)',
+    source: 'S3 Shortsight (2/3 - unchanged from previous day data)',
     estimate: 26.39,
     percent: 51.72
   },
   {
-    source: 'Ortex (2/2)',
-    estimate: 27.14,
-    percent: 53.18,
+    source: 'Ortex (2/3)',
+    estimate: 26.66,
+    percent: 51.54,
   }];
-  const SHORT_AVAILABILITY = '0 (Interactive Brokers)'
-  const BORROW_RATE = '19.67% (Ortex)'
+  const SHORT_AVAILABILITY = '1.06m (Interactive Brokers)'
+  const BORROW_RATE = '18.28% (Ortex), 10.1% (Interactive Brokers)'
   const date = new Date();
 
   const timestampString = `${MONTHS[date.getMonth()]} ${date.getDate()}`;
