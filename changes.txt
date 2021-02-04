@@ -96,7 +96,7 @@
 
 <body>
   <main>
-    <h2>as of <span id="date">February 4</span>,</h2>
+    <h2>as of <span id="date">February 5</span>,</h2>
     <h1>the squeeze has <u>not</u> been squoze.</h1>
   </main>
   <article>
