@@ -100,33 +100,33 @@
     <h1>the squeeze has <u>not</u> been squoze.</h1>
   </main>
   <article>
-    <h3>the situation (2/4 9:30 AM ET):</h3>
+    <h3>the situation (2/5 10:00 AM ET):</h3>
     <ul>
       <li><b>short interest:</b>
-        <p id="short_interest">26.39m (51.72% of float) by S3 Shortsight (2/3 - unchanged from previous day data), 26.66m (51.54% of float) by Ortex (2/3)</p>
+        <p id="short_interest">25.4m (49.77% of float) by S3 Shortsight (2/4), 26.38m (53% of float) by Ortex (2/4)</p>
       </li>
       <li><b>short share public availability:</b>
-        <p id="short_availability">1.06m (Interactive Brokers)</p>
+        <p id="short_availability">210k (Interactive Brokers)</p>
       </li>
       <li><b>short share public borrow rate:</b>
-        <p id="borrow_rate">18.28% (Ortex), 10.1% (Interactive Brokers)</p>
+        <p id="borrow_rate">4.47% (Interactive Brokers)</p>
       </li>
       <li>
-        Shorts have stopped exiting their positions and are maintaining a level of short interest of about 50% of float. For the first time in a while, new shares are available to borrow for retail traders to short. S3 is reporting yesterday's numbers as today's numbers, unchanged.
+        Shorts have stopped exiting their positions and are maintaining a level of short interest of about 50% of float.
+        For the first time wrin a while, new shares are available to borrow for retail traders to short and borrow rates
+        are low.
       </li>
       <li>
         how often is this site updated? As often as the data is updated. Typically this is daily, before market open.
       </li>
       <li>
-        is the squeeze ever going to be squoze? possibly. short interest is still high, but it'll take some sort of
-        catalyst:
-        without one, at this point it's more likely short repurchasing continues as a gradual upward pressure, rather
-        than a
-        sudden mass event that causes the price to explode.
+        is the squeeze ever going to be squoze? possibly. At this point, most short interest is help by people who sold
+        the stock during the peak, who are not losing money now that its price is reduced.
       </li>
       <li>
         one feature worth looking at is the unusual level of failures to deliver GME stock, compiled from SEC data at
-        (<a href="https://wherearetheshares.com/" target="_blank">wherearetheshares.com</a>). Michael Burry reported a delay of weeks recalling his shares that had been
+        (<a href="https://wherearetheshares.com/" target="_blank">wherearetheshares.com</a>). Michael Burry reported a
+        delay of weeks recalling his shares that had been
         lent out to shorts. It's definitely odd.
       </li>
     </ul>
@@ -314,17 +314,17 @@
 <script>
   const MONTHS = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
   const SHORT_DATA = [{
-    source: 'S3 Shortsight (2/3 - unchanged from previous day data)',
-    estimate: 26.39,
-    percent: 51.72
+    source: 'S3 Shortsight (2/4)',
+    estimate: 25.40,
+    percent: 49.77,
   },
   {
-    source: 'Ortex (2/3)',
-    estimate: 26.66,
-    percent: 51.54,
+    source: 'Ortex (2/4)',
+    estimate: 26.38,
+    percent: 53.00,
   }];
-  const SHORT_AVAILABILITY = '1.06m (Interactive Brokers)'
-  const BORROW_RATE = '18.28% (Ortex), 10.1% (Interactive Brokers)'
+  const SHORT_AVAILABILITY = '210k (Interactive Brokers)'
+  const BORROW_RATE = '4.47% (Interactive Brokers)'
   const date = new Date();
 
   const timestampString = `${MONTHS[date.getMonth()]} ${date.getDate()}`;
